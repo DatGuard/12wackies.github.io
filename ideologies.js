@@ -49,5 +49,22 @@ ideologies = [
 			"cult": 100,
 			"mili": 100,
         }
-    }
+    },
+	 {
+        "name": "National Marxism",
+        "stats": {
+            "econ": 100,
+            "dipl": 100,
+            "civi": -100,
+            "morl": -50,
+			"ordr": 100,
+			"tech": -100,
+			"hier": -100,
+			"rlgs": -100,
+			"rgnl": -100,
+			"govt": -50,
+			"cult": 100,
+			"mili": -100,
+        }
+    },
 ];
